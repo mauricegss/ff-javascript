@@ -7,12 +7,11 @@ Este repositório faz parte da minha jornada na **Formação Front-end** do Math
 ## 📚 Sobre este Módulo
 Neste módulo, o foco é o **JavaScript**, uma tecnologia extremamente solicitada por empresas e essencial para o desenvolvimento moderno. Aqui, deixamos de apenas estruturar e estilizar para criar comportamentos dinâmicos, manipular dados e interagir com o usuário.
 
-* **Fundamentos:** Sintaxe, tipos de dados, operadores e lógica de programação.
-* **Estruturas de Controle:** Condicionais, loops e tratamento de erros.
-* **Funções:** Escopo, parâmetros e Arrow Functions.
-* **Arrays, Objetos e JSON:** Métodos de lista, manipulação de objetos e conversão de dados.
-* **DOM e Eventos:** Seleção e manipulação de elementos HTML para criar interatividade.
-* **JavaScript Moderno (ES6+):** Novas features como let/const, template literals e destructuring.
+### Principais tópicos abordados:
+* **Lógica de Programação:** Sintaxe, operadores, condicionais, loops e funções.
+* **Manipulação de Dados:** Arrays, Objetos, JSON e recursos modernos do ES6+.
+* **JavaScript Avançado:** Orientação a Objetos, programação assíncrona e depuração.
+* **DOM:** Seleção e manipulação de elementos HTML para criar interatividade.
 
 ---
 
@@ -24,6 +23,16 @@ O repositório está organizado por módulos seguindo a cronologia do curso:
 3. **`3_ESTRUTURAS/`**: Variáveis, funções integradas, estruturas de decisão e repetição.
 4. **`4_FUNCOES/`**: Aprofundamento em funções, escopo, Arrow Functions, parâmetros opcionais/default e recursão.
 5. **`5_ARRAYS_E_OBJETOS/`**: Manipulação avançada de listas e objetos, métodos de array, Destructuring e introdução a JSON.
+6. **`6_OOP/`**: Orientação a Objetos, aprofundando em métodos, Prototypes, Classes , Herança e Symbols.
+7. **`7_DEBUG/`**: Técnicas de depuração com Strict Mode, tratamento de dados, Exceptions e Assertions.
+8. **`8_ASYNC/`**: Programação assíncrona, incluindo setTimeout/setInterval, Promises e Async Functions.
+9. **`9_DOM/`**: Manipulação do DOM (Document Object Model), seleção de elementos, alteração de estilos/CSS via JS e navegação pela árvore de elementos.
+
+---
+
+## 💻 Projetos em Destaque
+
+Projetos ainda serão desenvolvidos ao longo do curso.
 
 ---
 

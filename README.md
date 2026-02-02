@@ -30,6 +30,8 @@ O repositório está organizado por módulos seguindo a cronologia do curso:
 10. **`10_EVENTOS/`**: Manipulação de eventos de click, mouse, teclado, scroll, formulários e propagação.
 11. **`11_PROJETO_TABUADA/`**: Aplicação prática de lógica e DOM para gerar tabuadas matemáticas.
 12. **`12_PROJETO_QR_CODE/`**: Gerador de QR Code interativo consumindo API externa.
+13. **`13_PROJETO_IPHONE/`**: Clone da página do iPhone 13 Pro com troca de imagens dinâmica e interatividade.
+14. **`14_PROJETO_IMC/`**: Calculadora de IMC completa com tabelas de classificação e validação de dados.
 
 ---
 
@@ -40,6 +42,12 @@ Uma aplicação para exercitar lógica de programação e manipulação do DOM. 
 
 ### 📱 Gerador de QR Code
 Ferramenta que transforma textos ou URLs em QR Codes escaneáveis. O projeto integra uma API externa para gerar as imagens dinamicamente e apresenta feedback visual em tempo real enquanto o código é criado.
+
+### 🍎 Clone iPhone 13 Pro
+Recriação da página de vendas da Apple focada na manipulação de eventos. O destaque é o seletor de cores interativo: ao clicar nas opções, a imagem do produto é alterada dinamicamente pelo JavaScript.
+
+### ⚖️ Calculadora de IMC
+Uma ferramenta funcional para cálculo de saúde. O script captura os dados de altura e peso, calcula o IMC e retorna o cálculo e a classificação correspondente através de uma lógica condicional robusta.
 
 ---
 

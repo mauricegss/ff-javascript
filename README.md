@@ -12,6 +12,7 @@ Neste módulo, o foco é o **JavaScript**, uma tecnologia extremamente solicitad
 * **Manipulação de Dados:** Arrays, Objetos, JSON e recursos modernos do ES6+.
 * **JavaScript Avançado:** Orientação a Objetos, programação assíncrona e depuração.
 * **DOM e Eventos:** Seleção e manipulação de elementos HTML e resposta a ações do usuário.
+* **Comunicação com APIs:** Requisições HTTP profissionais com Axios e Fetch API.
 
 ---
 
@@ -32,6 +33,9 @@ O repositório está organizado por módulos seguindo a cronologia do curso:
 12. **`12_PROJETO_QR_CODE/`**: Gerador de QR Code interativo consumindo API externa.
 13. **`13_PROJETO_IPHONE/`**: Clone da página do iPhone 13 Pro com troca de imagens dinâmica e interatividade.
 14. **`14_PROJETO_IMC/`**: Calculadora de IMC completa com tabelas de classificação e validação de dados.
+15. **`15_JS_MODERNO/`**: Recursos do ES6+ (Arrow Functions, Map/Filter/Reduce, Template Literals, Spread/Rest).
+16. **`16_AXIOS/`**: Biblioteca profissional para requisições HTTP, interceptors e manipulação de respostas de APIs.
+17. **`17_PROJETO_LAZY_LOAD/`**: Implementação de carregamento lento de imagens (Lazy Loading) para otimização de performance.
 
 ---
 
@@ -48,6 +52,9 @@ Recriação da página de vendas da Apple focada na manipulação de eventos. O 
 
 ### ⚖️ Calculadora de IMC
 Uma ferramenta funcional para cálculo de saúde. O script captura os dados de altura e peso, calcula o IMC e retorna o cálculo e a classificação correspondente através de uma lógica condicional robusta.
+
+### ⚡ Lazy Loading
+Um projeto focado em performance e UX. A aplicação carrega imagens sob demanda apenas quando o usuário faz scroll e elas entram na área visível da tela, economizando dados e acelerando o carregamento da página.
 
 ---
 

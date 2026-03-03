@@ -36,6 +36,10 @@ O repositório está organizado por módulos seguindo a cronologia do curso:
 15. **`15_JS_MODERNO/`**: Recursos do ES6+ (Arrow Functions, Map/Filter/Reduce, Template Literals, Spread/Rest).
 16. **`16_AXIOS/`**: Biblioteca profissional para requisições HTTP, interceptors e manipulação de respostas de APIs.
 17. **`17_PROJETO_LAZY_LOAD/`**: Implementação de carregamento lento de imagens (Lazy Loading) para otimização de performance.
+18. **`18_PROJETO_TODO_LIST/`**: Lista de tarefas clássica com funcionalidades de adicionar, editar, excluir e buscar.
+19. **`19_PROJETO_GERA_SENHAS/`**: Gerador de senhas seguras customizáveis com opções de letras, números e símbolos.
+20. **`20_PROJETO_NOTES/`**: Aplicação de bloco de notas com persistência de dados no Local Storage.
+21. **`21_PROJETO_BOX_SHADOW/`**: Ferramenta visual para gerar regras de CSS `box-shadow` dinamicamente.
 
 ---
 
@@ -54,10 +58,19 @@ Recriação da página de vendas da Apple focada na manipulação de eventos. O 
 Uma ferramenta funcional para cálculo de saúde. O script captura os dados de altura e peso, calcula o IMC e retorna o cálculo e a classificação correspondente através de uma lógica condicional robusta.
 
 ### ⚡ Lazy Loading
-Um projeto focado em performance e UX. A aplicação carrega imagens sob demanda apenas quando o usuário faz scroll e elas entram na área visível da tela, economizando dados e acelerando o carregamento da página.
+Um projeto focado em performance e UX. A aplicação carrega imagens sob demanda apenas quando o usuário faz scroll e elas entram na área visível, economizando dados e acelerando o carregamento da página.
+
+### ✅ Todo List Avançado
+Muito mais que uma simples lista. Este projeto consolida a manipulação do DOM permitindo adicionar, editar, concluir, buscar e filtrar tarefas ativas e concluídas.
+
+### 🔒 Gerador de Senhas
+Uma aplicação focada em lógica, utilizando arrays e métodos matemáticos do JS para criar senhas complexas e seguras com base nas preferências selecionadas pelo usuário.
+
+### 📝 Bloco de Notas
+Aplicação prática para entender a persistência de dados no navegador. As notas criadas ficam salvas no Local Storage, garantindo que não se percam mesmo ao fechar a aba do navegador.
 
 ---
 
 ## 🔗 Outras Partes da Formação
 * [Parte 1: HTML e CSS](https://github.com/mauricegss/ff-html-css)
-* [Parte 3: React e TypeScript (Em breve)]()
+* [Parte 3: React e TypeScript](https://github.com/mauricegss/ff-react)
